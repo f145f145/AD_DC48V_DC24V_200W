@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=F?? NewDesignator=F1
+Change Net Name : Old Net Name=NetF??_1 New Net Name=NetF1_1
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component C1 80V 220uF D10*L20
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component C2 4.7uF

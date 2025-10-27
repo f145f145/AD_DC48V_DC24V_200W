@@ -1,0 +1,304 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Removed Pin From Net: NetName=NetC1_2 Pin=C2-2
+Removed Pin From Net: NetName=48V+ Pin=C4-1
+Removed Pin From Net: NetName=48V- Pin=C4-2
+Removed Pin From Net: NetName=48V+ Pin=C5-1
+Removed Pin From Net: NetName=48V- Pin=C5-2
+Removed Pin From Net: NetName=48V+ Pin=P1-1
+Removed Pin From Net: NetName=48V- Pin=P1-2
+Removed Pin From Net: NetName=48V+ Pin=P2-1
+Removed Pin From Net: NetName=48V- Pin=P2-2
+Removed Member From Class: ClassName=DC48V_DC24V_200W_V1.0 Member=C3
+Removed Member From Class: ClassName=DC48V_DC24V_200W_V1.0 Member=C4
+Removed Member From Class: ClassName=DC48V_DC24V_200W_V1.0 Member=C5
+Removed Member From Class: ClassName=DC48V_DC24V_200W_V1.0 Member=C??
+Removed Member From Class: ClassName=DC48V_DC24V_200W_V1.0 Member=P1
+Removed Member From Class: ClassName=DC48V_DC24V_200W_V1.0 Member=P2
+Change Component Comment : Designator=C?? Old Comment=220uF New Comment=80V 220uF D10*L20
+Change Component Comment : Designator=CN?? Old Comment=XT30PW-M30.G.Y New Comment=XT30PW
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C?? NewDesignator=C1
+Change Component Designator: OldDesignator=CN?? NewDesignator=H1
+Change Component Designator: OldDesignator=D?? NewDesignator=D1
+Added Component: Designator=C23(CAP-TH_BD10.0-P5.00-D1.0-FD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/ERS1HM221G13OT/356226.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ERS1HM221G13OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "220uF ±20% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime"; Value = "7000hrs@105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AISHI(艾华集团)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ERS1HM221G13OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Spacing"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,D10xL13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C383039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ERS1HM221G13OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMC_L6.9-W5.9-LS7.9-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "45.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SMDJ28A/44252493.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SMDJ28A_C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "单向TVS 28V截止 峰值浪涌电流：66.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "R+O(宏嘉诚)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SMDJ28A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "单路"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+150℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "66.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "3kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "单向"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMC(DO-214AB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SMDJ28A_C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "31.1V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMC_L6.9-W5.9-LS7.9-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "45.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SMDJ28A/44252493.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SMDJ28A_C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "单向TVS 28V截止 峰值浪涌电流：66.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "R+O(宏嘉诚)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SMDJ28A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "单路"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+150℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "66.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "3kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "单向"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMC(DO-214AB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SMDJ28A_C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "31.1V"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SMC_L6.9-W5.9-LS7.9-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "45.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SMDJ28A/44252493.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SMDJ28A_C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "单向TVS 28V截止 峰值浪涌电流：66.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "R+O(宏嘉诚)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SMDJ28A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "单路"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+150℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "66.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "3kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "单向"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMC(DO-214AB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SMDJ28A_C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "31.1V"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SMC_L6.9-W5.9-LS7.9-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "45.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SMDJ28A/44252493.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SMDJ28A_C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "单向TVS 28V截止 峰值浪涌电流：66.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "level of protection"; Value = "IEC 61000-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "R+O(宏嘉诚)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SMDJ28A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "单路"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+150℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "66.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "3kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "单向"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "1uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMC(DO-214AB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SMDJ28A_C42371721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "31.1V"; VariantName = "[No Variations]"
+Added Component: Designator=H2(CONN-TH_XT30PW-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Belt length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact resistance"; Value = "1.2mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220222/6A9F22F7850E25B33E1BE430ADF8560B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XT30PW-M30.G.Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FlameRetardantGrade"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InsulationMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InterfaceType"; Value = "公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)航模插头 卧式弯脚 XT30PW-M公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XT30PW-M30.G.Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MetalMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NumberOfUSBHoles"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedCurrent"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedVoltage"; Value = "DC 500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecommendedWireGauge"; Value = "16/18/20AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "specifications"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C431092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "航模插头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type1"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=H3(CONN-TH_XT30PW-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Belt length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact resistance"; Value = "1.2mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220222/6A9F22F7850E25B33E1BE430ADF8560B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XT30PW-M30.G.Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FlameRetardantGrade"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InsulationMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InterfaceType"; Value = "公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)航模插头 卧式弯脚 XT30PW-M公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XT30PW-M30.G.Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MetalMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NumberOfUSBHoles"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedCurrent"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedVoltage"; Value = "DC 500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecommendedWireGauge"; Value = "16/18/20AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "specifications"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C431092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "航模插头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type1"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=H4(CONN-TH_XT30PW-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Belt length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact resistance"; Value = "1.2mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220222/6A9F22F7850E25B33E1BE430ADF8560B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XT30PW-M30.G.Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FlameRetardantGrade"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InsulationMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InterfaceType"; Value = "公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)航模插头 卧式弯脚 XT30PW-M公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XT30PW-M30.G.Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MetalMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NumberOfUSBHoles"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedCurrent"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedVoltage"; Value = "DC 500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecommendedWireGauge"; Value = "16/18/20AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "specifications"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C431092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "航模插头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type1"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=H5(CONN-TH_XT30PW-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Belt length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact resistance"; Value = "1.2mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220222/6A9F22F7850E25B33E1BE430ADF8560B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XT30PW-M30.G.Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FlameRetardantGrade"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InsulationMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InterfaceType"; Value = "公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)航模插头 卧式弯脚 XT30PW-M公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XT30PW-M30.G.Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MetalMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NumberOfUSBHoles"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedCurrent"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedVoltage"; Value = "DC 500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecommendedWireGauge"; Value = "16/18/20AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "specifications"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C431092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "航模插头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type1"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=48V+ Pin=C23-1
+Added Pin To Net: NetName=48V- Pin=C23-2
+Added Pin To Net: NetName=48V+ Pin=D2-1
+Added Pin To Net: NetName=48V- Pin=D2-2
+Added Pin To Net: NetName=48V+ Pin=D3-1
+Added Pin To Net: NetName=48V- Pin=D3-2
+Added Pin To Net: NetName=48V+ Pin=D4-1
+Added Pin To Net: NetName=48V- Pin=D4-2
+Added Pin To Net: NetName=48V+ Pin=D5-1
+Added Pin To Net: NetName=48V- Pin=D5-2
+Added Pin To Net: NetName=48V+ Pin=H2-1
+Added Pin To Net: NetName=48V- Pin=H2-2
+Added Pin To Net: NetName=48V+ Pin=H3-1
+Added Pin To Net: NetName=48V- Pin=H3-2
+Added Pin To Net: NetName=48V+ Pin=H4-1
+Added Pin To Net: NetName=48V- Pin=H4-2
+Added Pin To Net: NetName=48V+ Pin=H5-1
+Added Pin To Net: NetName=48V- Pin=H5-2
+Change Net Name : Old Net Name=48V+ New Net Name=24V+
+Change Net Name : Old Net Name=48V- New Net Name=24V-
+Change Net Name : Old Net Name=NetCN??_2 New Net Name=NetF??_1
+Change Net Name : Old Net Name=NetD??_1 New Net Name=NetD1_1
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component C23 50V 220uF D10*L13
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component D2 SMDJ28A
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component D3 SMDJ28A
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component D4 SMDJ28A
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component D5 SMDJ28A
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component H2 XT30PW
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component H3 XT30PW
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component H4 XT30PW
+Added Member To Class: ClassName=DC48V_DC24V_200W_V1.0 Member=Component H5 XT30PW
